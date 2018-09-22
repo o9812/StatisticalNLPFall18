@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: anhad13
+   first: Yu-Ping
+   last: Lib
+email: yplin238@nyu.edu
+leaderboard: yplin
