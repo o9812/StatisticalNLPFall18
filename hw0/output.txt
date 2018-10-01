@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 name:
    first: Yu-Ping
    last: Lib
 email: yplin238@nyu.edu
 leaderboard: yplin
+=======
+---
+name:
+   first: Slav
+   last: Petrov
+email: slav@petrovi.de
+leaderboard: SlavPetrov
+>>>>>>> upstream/master
